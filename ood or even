@@ -1,0 +1,7 @@
+num<-as.integer(readline(prompt="Enter number:"))
+if((num%%2)==0)
+{
+  print("the number is even")
+}else{
+  print("the numbr is odd")
+}
